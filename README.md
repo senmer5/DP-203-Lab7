@@ -1,6 +1,6 @@
 # DP-203-Lab7
 
-# DP-203 Lab 7: Using Delta Lake with Apache Spark in Azure Synapse Analytics
+# Using Delta Lake with Apache Spark in Azure Synapse Analytics
 
 ## 📊 Overview
 
@@ -46,10 +46,12 @@ By the end of this project, you will be able to:
 - Write streaming data to Delta tables.
 - Use Delta Time Travel to query historical data versions.
 - Understand the differences between external and managed Delta tables.
-- Run SQL queries on Delta files us<img width="978" alt="1" src="https://github.com/user-attachments/assets/8bd0fd3a-baad-4db2-82de-9fa804884e8f" />
+- Run SQL queries on Delta files us
 ing the serverless SQL pool in Synapse.
 
-##screenshot
+## Screenshots
+
+<img width="978" alt="1" src="https://github.com/user-attachments/assets/8bd0fd3a-baad-4db2-82de-9fa804884e8f" />
 
 <img width="977" alt="2" src="https://github.com/user-attachments/assets/b225e46b-8b55-43c5-8f30-4ea98277e1df" />
 
