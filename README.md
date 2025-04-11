@@ -46,6 +46,21 @@ By the end of this project, you will be able to:
 - Write streaming data to Delta tables.
 - Use Delta Time Travel to query historical data versions.
 - Understand the differences between external and managed Delta tables.
-- Run SQL queries on Delta files using the serverless SQL pool in Synapse.
+- Run SQL queries on Delta files us<img width="978" alt="1" src="https://github.com/user-attachments/assets/8bd0fd3a-baad-4db2-82de-9fa804884e8f" />
+ing the serverless SQL pool in Synapse.
 
-- 
+##screenshot
+
+<img width="977" alt="2" src="https://github.com/user-attachments/assets/b225e46b-8b55-43c5-8f30-4ea98277e1df" />
+
+<img width="976" alt="3" src="https://github.com/user-attachments/assets/4a079a9e-0a3e-408e-a0f0-0c2b6016e8a4" />
+
+<img width="976" alt="4" src="https://github.com/user-attachments/assets/177a6628-0c3b-4da1-90ee-2f06c63e5120" />
+
+<img width="979" alt="5" src="https://github.com/user-attachments/assets/7b070998-e1d8-42e3-89f7-dd0a7114a5eb" />
+
+<img width="977" alt="7" src="https://github.com/user-attachments/assets/0dc7459d-1d44-4a17-a99e-7a08461b25ec" />
+
+<img width="975" alt="9" src="https://github.com/user-attachments/assets/3a9343c8-a3e7-4140-b719-06dd1075ffb7" />
+
+<img width="979" alt="10" src="https://github.com/user-attachments/assets/b456c9a4-70d0-4b02-b89e-bf303d673966" />
